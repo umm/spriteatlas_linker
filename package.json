@@ -1,6 +1,6 @@
 {
   "name": "@umm/spriteatlas_linker",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Link SpriteAtlas as scene dependency",
   "homepage": "https://github.com/umm/spriteatlas_linker",
   "bugs": {
